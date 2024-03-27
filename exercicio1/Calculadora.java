@@ -9,7 +9,7 @@ public class Calculadora {
     }
 
     float divisao(float num1, float num2) {
-        if (num1 == 0 || num2 == 0) {
+        if (num2 == 0) {
             System.out.println("Não é possível dividir por zero.");
             return 0;
         } else {
