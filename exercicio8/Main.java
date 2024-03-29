@@ -10,7 +10,7 @@ public class Main {
         Pedido pedido = new Pedido();
 
         System.out.println("Bem-vindo à Pizzaria!");
-        System.out.println("OBS: depois de escolher suas pizzas, aperte 5 para adicionar seu endereço!!!");
+        System.out.println("OBS: depois de escolher as pizzas, aperte 5 para adicionar o endereço!!!");
         System.out.println("---------------------");
         System.out.println("Menu:");
         System.out.println("1. " + pizzaMarguerita.getNome() + " - R$" + pizzaMarguerita.getValor());
