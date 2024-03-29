@@ -1,4 +1,4 @@
-# desenvolvimento de software
+## desenvolvimento de software
 ## lista 1:
 
 ### Exercício 01
